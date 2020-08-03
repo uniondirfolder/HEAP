@@ -1,2 +1,2 @@
 # HEAP
-bit
+Various program sketches, examples, practical work - as a hobby ...
