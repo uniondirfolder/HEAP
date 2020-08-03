@@ -107,7 +107,6 @@ namespace Lines
             if (obj != null)
             {
                 int sn = obj.SN;
-                int i = 0;
 
                 if (
                     rSn == sn ||
